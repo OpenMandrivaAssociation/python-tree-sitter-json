@@ -1,6 +1,6 @@
 Name:		python-tree-sitter-json
 Version:	0.24.8
-Release:	1
+Release:	2
 Summary:	Tree-sitter json grammar (Python bindings)
 License:	MIT
 Group:		Development/Python
